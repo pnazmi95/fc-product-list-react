@@ -1,0 +1,28 @@
+.add-product-form {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+.add-product-form__input {
+  padding: 0.3rem;
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid #e0e0e0;
+  outline: none;
+  color: #e0e0e0;
+  font: inherit;
+  font-size: 1.8rem;
+}
+
+.add-product-form__submit-btn {
+  margin: 1rem;
+  background-color: transparent;
+  border: none;
+  font: inherit;
+  outline: none;
+  font-size: 1.8rem;
+  color: #e0e0e0;
+  cursor: pointer;
+}
